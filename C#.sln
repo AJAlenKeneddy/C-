@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelloWord", "MyHelloWord\MyHelloWord.csproj", "{702A0A5B-3392-4B76-817C-23A0ECAD2ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPasswordGenerator", "MyPasswordGenerator\MyPasswordGenerator.csproj", "{41103DD5-6401-4385-BC0E-EE3C2B1E2CD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702A0A5B-3392-4B76-817C-23A0ECAD2ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702A0A5B-3392-4B76-817C-23A0ECAD2ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702A0A5B-3392-4B76-817C-23A0ECAD2ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702A0A5B-3392-4B76-817C-23A0ECAD2ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5298B8-FAFD-42FD-935D-DBFEC2B776A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5298B8-FAFD-42FD-935D-DBFEC2B776A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5298B8-FAFD-42FD-935D-DBFEC2B776A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5298B8-FAFD-42FD-935D-DBFEC2B776A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41103DD5-6401-4385-BC0E-EE3C2B1E2CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41103DD5-6401-4385-BC0E-EE3C2B1E2CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41103DD5-6401-4385-BC0E-EE3C2B1E2CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41103DD5-6401-4385-BC0E-EE3C2B1E2CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
