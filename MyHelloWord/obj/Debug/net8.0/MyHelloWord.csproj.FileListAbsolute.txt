@@ -12,3 +12,4 @@ C:\Users\User\OneDrive - Universidad Tecnologica del Peru\Desktop\C#\MyHelloWord
 C:\Users\User\OneDrive - Universidad Tecnologica del Peru\Desktop\C#\MyHelloWord\obj\Debug\net8.0\MyHelloWord.pdb
 C:\Users\User\OneDrive - Universidad Tecnologica del Peru\Desktop\C#\MyHelloWord\obj\Debug\net8.0\MyHelloWord.genruntimeconfig.cache
 C:\Users\User\OneDrive - Universidad Tecnologica del Peru\Desktop\C#\MyHelloWord\obj\Debug\net8.0\ref\MyHelloWord.dll
+C:\Users\User\OneDrive - Universidad Tecnologica del Peru\Desktop\C#\MyHelloWord\obj\Debug\net8.0\MyHelloWord.sourcelink.json
